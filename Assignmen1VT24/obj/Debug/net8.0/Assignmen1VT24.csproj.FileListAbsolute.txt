@@ -1,0 +1,14 @@
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\bin\Debug\net8.0\Assignmen1VT24.exe
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\bin\Debug\net8.0\Assignmen1VT24.deps.json
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\bin\Debug\net8.0\Assignmen1VT24.runtimeconfig.json
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\bin\Debug\net8.0\Assignmen1VT24.dll
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\bin\Debug\net8.0\Assignmen1VT24.pdb
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.AssemblyInfoInputs.cache
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.AssemblyInfo.cs
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.csproj.CoreCompileInputs.cache
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.dll
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\refint\Assignmen1VT24.dll
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.pdb
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\Assignmen1VT24.genruntimeconfig.cache
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\Assignmen1VT24\Assignmen1VT24\obj\Debug\net8.0\ref\Assignmen1VT24.dll

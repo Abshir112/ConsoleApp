@@ -16,7 +16,7 @@ namespace Assignment1VT24
         public void Start()
         {
             Console.WriteLine(); //blankline
-            Console.WriteLine("Greetings from the Pet class!");
+            Console.WriteLine("Greetings from the Pet class!\n");
 
             ReadAndSavePetData();
             DisplayPetInfo();

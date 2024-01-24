@@ -17,8 +17,7 @@ namespace Assignment1VT24
 
         public void Start()
         {
-            Console.WriteLine();
-            Console.WriteLine("Welcome to Central Library");
+            Console.WriteLine("Welcome to Central Library\n");
 
             ReadAndSaveLibraryData();
             DisplayLibraryInfo();
@@ -27,7 +26,7 @@ namespace Assignment1VT24
         public void ReadAndSaveLibraryData()
         {
             // Read student's name
-            Console.WriteLine("\nPlease enter your name? ");
+            Console.WriteLine("Please enter your name: ");
             studentName = Console.ReadLine();
 
             // Read name of the library

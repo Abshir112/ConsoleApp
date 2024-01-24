@@ -9,25 +9,26 @@ namespace Assignment1VT24
             SetUpConsoleWindow();
 
             // Create a poet object
-            //Pet petObj = new Pet();
+            Pet petObj = new Pet();
 
             // call a method of the object to run
-            //petObj.Start();
+            petObj.Start();
 
-            // Console.WriteLine("Press Enter to start next part");
-            //Console.ReadLine();
+            Console.WriteLine("\nPress Enter to start next part");
+            Console.ReadLine();
 
-            //TicketSeller ticketSellerObj = new TicketSeller();
-            //ticketSellerObj.Start();
+            TicketSeller ticketSellerObj = new TicketSeller();
+            ticketSellerObj.Start();
 
-            //Console.WriteLine();
-            // Console.WriteLine("Starting the album program!");
 
-            /* Album albumObj = new Album();
+            Console.WriteLine("\nPress Enter to start next part");
+            Console.ReadLine();
+
+            Album albumObj = new Album();
              albumObj.Start();
 
-             Console.WriteLine("Press Enter to start next part");
-             Console.ReadLine(); */
+            Console.WriteLine("\nPress Enter to start next part");
+            Console.ReadLine();
 
             Library libraryObj = new Library();
             libraryObj.Start();

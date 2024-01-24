@@ -10,14 +10,14 @@ namespace Assignment1VT24
     {
         private string albumName;
         private string artistName;
-        private int releaseYear;
         private int numberOfTracks;
 
 
 
         public void Start()
         {
-          
+            Console.WriteLine("Starting the album program!\n");
+
             ReadAlbumInfo();
             ReadArtistOrBandName();
             ReadTracks();

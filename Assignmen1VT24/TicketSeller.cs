@@ -33,7 +33,7 @@ namespace Assignment1VT24
             Console.WriteLine("Children get always 75% discount!");
             Console.WriteLine();
 
-            Console.WriteLine("Your name please!");
+            Console.WriteLine("Your name please:");
             name = Console.ReadLine();
 
             Console.WriteLine("Number of adults:");

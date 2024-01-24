@@ -40,3 +40,4 @@ C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\ConsoleApp\Assignmen1VT24\obj\Deb
 C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\ConsoleApp\Assignmen1VT24\obj\Debug\net8.0\Assignment1_VT24.pdb
 C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\ConsoleApp\Assignmen1VT24\obj\Debug\net8.0\Assignment1_VT24.genruntimeconfig.cache
 C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\ConsoleApp\Assignmen1VT24\obj\Debug\net8.0\ref\Assignment1_VT24.dll
+C:\Users\Abshir jr\Desktop\2nd_YEAR\C#\Lessons\ConsoleApp\Assignmen1VT24\obj\Debug\net8.0\Assignment1_VT24.sourcelink.json
